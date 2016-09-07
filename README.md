@@ -21,8 +21,8 @@
 ## Python
 [https://github.com/iamport/iamport-rest-client-python](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy), [홍민희(dahlia) 님](https://github.com/dahlia) - 2.x, 3.x지원
 
-## ASP.NET
-[https://github.com/gongdo/iamport-rest-client-net](https://github.com/gongdo/iamport-rest-client-net) by [공인석(Gongdo) 님](https://github.com/gongdo)
+## .NET (ASP.NET)
+[https://github.com/OpenBapul/iamport-rest-client-net](https://github.com/OpenBapul/iamport-rest-client-net) by [바풀](https://about.bapul.net/) [공인석(Gongdo) 님](https://github.com/gongdo)
 
 ## Node.js
 [https://github.com/posquit0/node-iamporter](https://github.com/posquit0/node-iamporter) by [박병진(posquit0) 님](https://github.com/posquit0)  
